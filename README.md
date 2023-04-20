@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h2 align="center">Hi 👋, I'm Gibbsson Farias Castillo</h2>
     <h4 align="left">
-    A passionate Java Back-End Developer Jr, I am currently focused on the goal of deepening my knowledge in Spring Modules as:
+    A passionate Java Back-End Developer Jr, I am currently focused on the goal of deepening my knowledge in Spring Modules as:<br>
      • Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Security&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Hateoas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Cloud<br>
     In addition to:<br>
      • Database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Unit Tests with JUnit and Mockito&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Microservices Architecture&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•JWT<br>
@@ -26,11 +26,10 @@
         <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" title="Spring Boot" **alt="Spring Boot" width="60" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="50" height="50"/>&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="45" height="45"/>&nbsp;
       </div>
 </div>
 
----
 <br><br>
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibbssonfarias30&show_icons=true&locale=en&layout=compact" alt="gibbssonfarias30" /></p></center>
 
