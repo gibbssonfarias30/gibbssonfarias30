@@ -19,8 +19,6 @@
 </p>
 
 ---
-
-<br>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -32,7 +30,6 @@
       </div>
 </div>
 ---
-<br>
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibbssonfarias30&show_icons=true&locale=en&layout=compact" alt="gibbssonfarias30" /></p></center>
 
 
