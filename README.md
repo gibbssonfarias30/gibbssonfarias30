@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Gibbsson Farias Castillo</h1>
-    <h3 align="left" style="font-family: 'Times New Roman', Times, serif">
+    <h3 align="left" style="font-family: 'Times New Roman', Times, serif; font-weight: normal;">
     Un apasionado Java Back-End Developer Jr, actualmente me centro en el objetivo de profundizar mis conocimientos en los Módulos Spring como:<br>
      • Spring Boot<br> 
      • Spring Data<br>
