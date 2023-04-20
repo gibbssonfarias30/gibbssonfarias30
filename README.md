@@ -14,7 +14,7 @@
      • JWT&nbsp;
      • Keycloak&nbsp;
      • Docker&nbsp;
-     • Redi &nbsp;
+     • Redis &nbsp;
      • Kafka&nbsp;
     Busco oportunidades para aprender y colaborar en proyectos relacionados con estas tecnologías. 
     ¡Siempre buscando formas de mejorar! 
