@@ -1,11 +1,11 @@
 <div id="header" align="center">
     <h2 align="center">Hi 👋, I'm Gibbsson Farias Castillo</h2>
     <h4 align="left">
-    A passionate Java Back-End Developer Jr, I am currently focused on the goal of deepening my knowledge in Spring Modules as:<br>
-     • Spring Boot&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Spring Data&nbsp;&nbsp;&nbsp;• Spring Security &nbsp;• Spring Hateoas&nbsp;&nbsp;&nbsp;• Spring Cloud<br>
+    A passionate Java Back-End Developer Jr, I am currently focused on the goal of deepening my knowledge in Spring Modules as:
+     • Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Security&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Hateoas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Spring Cloud<br>
     In addition to:<br>
-     • Database      • Unit Tests with JUnit and Mockito      • Microservices Architecture      •JWT<br>
-     • Keycloak      • Docker      • Redis      • Kafka<br><br>
+     • Database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Unit Tests with JUnit and Mockito&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Microservices Architecture&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•JWT<br>
+     • Keycloak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Redis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Kafka<br><br>
     I look for opportunities to learn and collaborate on projects related to these technologies.<br>
     ¡Always looking for ways to improve! 
     </h4>
