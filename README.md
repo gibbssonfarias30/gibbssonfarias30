@@ -31,14 +31,14 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre Mi :
 
--
+- 
 
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Lenguajes y Herramientas:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>&nbsp;
         <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" title="Spring Boot" **alt="Spring Boot" width="60" height="50"/>&nbsp;
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 My Stats :
+### 📊 Mis estadísticas :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gibbssonfarias30&theme=onedark)](https://git.io/streak-stats)
 
