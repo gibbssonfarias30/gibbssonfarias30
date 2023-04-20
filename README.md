@@ -11,21 +11,16 @@
     </h4>
 </div>
 
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/gibbsson-jahncloy-augusto-farias-castillo/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Activo-blue?style=for-the-badge&logo=linkedin"
-            alt="LinkedIn  Badge" />
-    </a>
-</div>
+<br><br>
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gibbsson-jahncloy-augusto-farias-castillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gibbssonfarias30" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gibbssonfarias30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibbssonfarias30" height="30" width="40" /></a>
+</p>
 
 ---
-
-### 👨‍💻 About Me :
-
-- 
-
-
+<br><br>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -37,7 +32,8 @@
       </div>
 </div>
 
-
+---
+<br><br>
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibbssonfarias30&show_icons=true&locale=en&layout=compact" alt="gibbssonfarias30" /></p></center>
 
 
