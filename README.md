@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <h2 align="center">Hi 👋, I'm Gibbsson Farias Castillo</h2>
     <h4 align="left">
-    A passionate Java Back-End Developer Jr, I am currently focused on the goal of deepening my knowledge in Spring Modules as:<br><br>
-     • Spring Boot      • Spring Data      • Spring Security      • Spring Hateoas      • Spring Cloud<br><br>
+    A passionate Java Back-End Developer Jr, I am currently focused on the goal of deepening my knowledge in Spring Modules as:<br>
+     • Spring Boot&nbsp;&nbsp;&nbsp;• Spring Data&nbsp;&nbsp;&nbsp;• Spring Security&nbsp;&nbsp;&nbsp;• Spring Hateoas&nbsp;&nbsp;&nbsp;• Spring Cloud<br>
     In addition to:<br>
      • Database      • Unit Tests with JUnit and Mockito      • Microservices Architecture      •JWT<br>
      • Keycloak      • Docker      • Redis      • Kafka<br><br>
@@ -11,16 +11,14 @@
     </h4>
 </div>
 
-<br><br>
----
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gibbsson-jahncloy-augusto-farias-castillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gibbssonfarias30" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gibbssonfarias30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibbssonfarias30" height="30" width="40" /></a>
 </p>
 
----
-<br><br>
+<br>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
