@@ -4,7 +4,7 @@
     Un apasionado Java Back-End DeveloperJr, actualmente me centro en el objetivo de profundizar mis conocimientos en los Módulos Spring como:<br>
      • Spring Boot<br> 
      • Spring Data<br>
-     • Spring Security<img src="![image](https://user-images.githubusercontent.com/87838390/233432220-f68ff244-e7ed-470c-b543-bcfd99396e3f.png)" title="Spring security" **alt="Spring securit" width="50" height="50"/>&nbsp;<br> 
+     • Spring Security<br> 
      • Spring Hateoas<br>
      • Spring Cloud<br>
     Ademas de:<br>
