@@ -2,9 +2,9 @@
     <h1 align="center">Hola 👋, Soy Gibbsson Farias Castillo</h1>
     <h3 align="left">
     Un apasionado Java Back-End DeveloperJr, actualmente me centro en el objetivo de profundizar mis conocimientos en los Módulos Spring como:<br>
-     • Spring Boot<br>
+     • Spring Boot<br> 
      • Spring Data<br>
-     • Spring Security<br>
+     • Spring Security<img src="![image](https://user-images.githubusercontent.com/87838390/233432220-f68ff244-e7ed-470c-b543-bcfd99396e3f.png)" title="Spring security" **alt="Spring securit" width="50" height="50"/>&nbsp;<br> 
      • Spring Hateoas<br>
      • Spring Cloud<br>
     Ademas de:<br>
@@ -55,6 +55,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gibbssonfarias30&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gibbssonfarias30s&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gibbssonfarias30&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibbssonfarias30&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
