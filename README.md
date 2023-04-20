@@ -11,6 +11,8 @@
     </h4>
 </div>
 
+---
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,19 +20,21 @@
 <a href="https://www.instagram.com/gibbssonfarias30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gibbssonfarias30" height="30" width="40" /></a>
 </p>
 
+---
+
 <br>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>&nbsp;
-        <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" title="Spring Boot" **alt="Spring Boot" width="60" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="45" height="45"/>&nbsp;
       </div>
 </div>
-
-<br><br>
+---
+<br>
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibbssonfarias30&show_icons=true&locale=en&layout=compact" alt="gibbssonfarias30" /></p></center>
 
 
