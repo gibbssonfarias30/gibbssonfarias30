@@ -1,21 +1,21 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Gibbsson Farias Castillo</h1>
     <h3 align="center">
-    Un apasionado Java Back-End DeveloperJr, actualmente me centro en el objetivo de profundizar mis conocimientos en los Módulos Spring como:
-     • Spring Boot
-     • Spring Data
-     • Spring Security
-     • Spring Hateoas
-     • Spring Cloud
-    Ademas de:
-     • Base de datos
-     •  Unit Test con JUnit y Mockito
-     • Arquitectura de Microservicios
-     • JWT
-     • Keycloak
-     • Docker
-     • Redis 
-     • Kafka
+    Un apasionado Java Back-End DeveloperJr, actualmente me centro en el objetivo de profundizar mis conocimientos en los Módulos Spring como:&nbsp;
+     • Spring Boot&nbsp;
+     • Spring Data&nbsp;
+     • Spring Security&nbsp;
+     • Spring Hateoas&nbsp;
+     • Spring Cloud&nbsp;
+    Ademas de:&nbsp;
+     • Base de datos&nbsp;
+     •  Unit Test con JUnit y Mockito&nbsp;
+     • Arquitectura de Microservicios&nbsp;
+     • JWT&nbsp;
+     • Keycloak&nbsp;
+     • Docker&nbsp;
+     • Redi &nbsp;
+     • Kafka&nbsp;
     Busco oportunidades para aprender y colaborar en proyectos relacionados con estas tecnologías. 
     ¡Siempre buscando formas de mejorar! 
     </h3>
