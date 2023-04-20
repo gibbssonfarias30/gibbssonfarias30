@@ -23,7 +23,7 @@
 
 
 <div id="badges" align="center">
-    <a href="[linkedin.com/in/gibbsson-jahncloy-augusto-farias-castillo](https://www.linkedin.com/in/gibbsson-jahncloy-augusto-farias-castillo/)" target="_blank">
+    <a href="https://www.linkedin.com/in/gibbsson-jahncloy-augusto-farias-castillo/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Activo-blue?style=for-the-badge&logo=linkedin"
             alt="LinkedIn  Badge" />
     </a>
