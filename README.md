@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gibbsson Jahncloy Augusto Farias Castillo</h1>
 <h3 align="center">A passionate Java Back-End Developer Jr from Perú</h3>
 
-- 🌱 I’m currently learning **Microservices Architecture | Event-Driven Architecture | Databases | Cloud Services | Reactive Programming | Kubernetes | Scrum | Docker | Kubernetes | Angular**
+- 🌱 I’m currently learning **Microservices Architecture | Event-Driven Architecture | Databases | Cloud Services | Reactive Programming | Scrum | Docker | Kubernetes | Angular**
 - 👨‍💻 I’m looking to collaborate on **backend projects related to these technologies, opportunities to learn and cooperate.**
 - 📫 How to reach me **gibbfarc17@gmail.com**
 
